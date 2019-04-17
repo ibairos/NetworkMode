@@ -14,5 +14,3 @@ while True:
         main_rx.receiver()
     else:
         exit(0)
-
-
